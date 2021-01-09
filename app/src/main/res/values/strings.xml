@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Date Now</string>
+    <string name="generar">Generar fecha y hora actual</string>
+</resources>
